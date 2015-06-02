@@ -1,8 +1,8 @@
 {
   "name": "react-colorpicker-updated",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Colorpicker for React",
-  "main": "lib/index.js",
+  "main": "pkg/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

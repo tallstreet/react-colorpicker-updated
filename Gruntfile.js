@@ -100,5 +100,5 @@ module.exports = function(grunt) {
 
   grunt.registerTask("default", ["env:dev", "browserify:dev", "watch"]);
   grunt.registerTask("dist", ["env:dist", "react", "browserify:dist", "sass", "uglify:dist"]);
-  
+
 };
